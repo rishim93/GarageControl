@@ -1,0 +1,5 @@
+Change password, store local variable in PI, EXPORT, reference that password in python
+
+Interaction with slack if possible
+add push notifications for when the garage is open
+
